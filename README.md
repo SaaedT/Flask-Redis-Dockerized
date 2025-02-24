@@ -5,7 +5,6 @@ This project demonstrates a simple web application using Flask and Redis, fully 
 ## 📌 Project Overview
 The application is a minimal web service that leverages **Flask** for handling HTTP requests and **Redis** for managing state. It is deployed using **Docker Compose** for easy container orchestration.
 
-![Project Overview](images/project_overview.png)
 
 ## 🏗️ Project Structure
 ```
