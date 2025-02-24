@@ -3,7 +3,7 @@
 This project demonstrates a simple web application using Flask and Redis, fully containerized with Docker and deployed on an AWS EC2 instance.
 
 ## 📌 Project Overview
-The application is a minimal web service that leverages **Flask** for handling HTTP requests and **Redis** for managing state. It is deployed using **Docker Compose** for easy container orchestration.
+This project is a simple web application using **Flask** and **Redis**, originally developed by another source. My role was to containerize the application using **Docker**, orchestrate it with **Docker Compose**, and deploy it on an **AWS EC2** instance.
 
 ## 🏗️ Project Structure
 ```
@@ -87,6 +87,7 @@ This project is licensed under the MIT License.
 
 ---
 
-📌 **Author:** Mo Saeed Tello  
+📌 **Author:** Mo Saeed Tello
+📌 **Deployment & Containerization:** Mo Saeed Tello    
 📌 **GitHub:** [SaaedT](https://github.com/SaaedT)
 
