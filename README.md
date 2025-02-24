@@ -64,7 +64,8 @@ The application was tested by refreshing the page multiple times to ensure prope
 ![App Screenshot 1](images/app_screenshot_1.png)
 ![App Screenshot 2](images/app_screenshot_2.png)
 ![App Screenshot 3](images/app_screenshot_3.png)
-![App Screenshot 4](images/app_screenshot_4.png)
+![App Screenshot 3](images/app_screenshot_4.png)
+
 
 ### 4️⃣ Stopping the Application
 To stop and remove the running containers, run:
