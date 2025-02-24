@@ -8,11 +8,11 @@ The application is a minimal web service that leverages **Flask** for handling H
 
 ## 🏗️ Project Structure
 ```
-.
-├── Dockerfile
-├── docker-compose.yaml
-├── app.py
-├── requirements.txt
+project/
+│-- Dockerfile
+│-- docker-compose.yaml
+│-- app.py
+│-- requirements.txt
 ```
 
 ### 🔹 `Dockerfile`
